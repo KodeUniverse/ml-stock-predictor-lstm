@@ -3,6 +3,11 @@
 
 A python script with GUI that takes a user inputted stock and utilizes machine learning LSTM neural network to make price predictions, chart them, and allow saving to .csv file.
 
+# Changelog
+
+Version 1.0 - November 30, 2021
+First version of the app. Features stock forecasting using LSTM, plotting, and save to .csv
+
 # Installation
 
 Download main.py, stock_predictor_lstm.py, and stockpredictor.ui. Keep them in the same directory.
@@ -10,4 +15,9 @@ Download main.py, stock_predictor_lstm.py, and stockpredictor.ui. Keep them in t
 # Usage
 
 Run main.py.
+
+# Future additions
+
+ - Allow user to choose type of model/neural network to fit
+ - Return model accuracy and confusion matrix
 
