@@ -6,6 +6,7 @@ A python script with GUI that takes a user inputted stock and utilizes machine l
 # Changelog
 
 **Version 1.0 - November 30, 2021**
+
 *First version of the app. Features stock forecasting using LSTM, plotting, and save to .csv*
 
 # Installation
