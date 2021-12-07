@@ -17,9 +17,12 @@ Download main.py, stock_predictor_lstm.py, and stockpredictor.ui. Keep them in t
 
 Run main.py.
 
-# Future additions
+# Future additions planned
 
 Allow user to choose type of model/neural network to fit
  
 Return model accuracy and confusion matrix
+
+Some nice UI features (plots resize with window, better window size scaling, different UI styles, etc.)
+
 
